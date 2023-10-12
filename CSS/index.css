@@ -1,0 +1,26 @@
+body{
+    background-color: #47392C;
+    color: #828180;
+}
+.navbar{
+    background-color: #4f4133;
+}
+footer,.card {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #4f4133;
+    color: white;
+    text-align: center;
+}
+.navbar-brand{
+    width: 5%;
+    min-width: 4%;
+    max-width: 6%;
+}
+.logo{
+    width: 99%;
+    min-width: 90%;
+    max-width: 100%;
+}
