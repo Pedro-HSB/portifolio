@@ -1,8 +1,10 @@
-body {
-    background-color: #47392C;
-    color: #828180;
+body{
+    background-color: aqua;
 }
-
+p{
+    color: brown;
+    background-color: aqua;
+}
 .navbar {
     background-color: #4f4133;
 }

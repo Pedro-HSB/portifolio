@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="PT-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portifolio</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php
+require_once("php/head.php");
+require_once("php/header.php");
+include_once("php/bodyIndex.php");
+require_once("php/footer.php");
+?>

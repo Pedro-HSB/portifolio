@@ -9,10 +9,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link active" aria-current="page" href="#">Me conheca mais</a>
-                    <a class="nav-link" href="#">projetos</a>
-                    <a class="nav-link" href="#">habilidades</a>
-                    <a class="nav-link" aria-disabled="true">tecnologias usadas</a>
+                    <a class="nav-link active" aria-current="page" href="./php/mais.php">Me conheca mais</a>
+                    <a class="nav-link active" aria-current="page" href="./php/projetos.php">projetos</a>
+                    <a class="nav-link active" aria-current="page" href="./php/ability.php">habilidades</a>
+                    <a class="nav-link active" aria-current="page" href="./php/technology.php">tecnologias usadas</a>
                 </div>
             </div>
         </div>
